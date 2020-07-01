@@ -1,0 +1,52 @@
+#leftside{
+ 	display: block;
+	margin-right:auto; 
+	width:55%; 
+}
+#rightside{
+  background-color: solid blue;
+  margin-left:55%;
+  width: 45%;
+  margin-top:-37%;
+}
+#imagelink{
+  width:50px;
+  height: 50px;
+}
+#top-container{
+	margin-left:auto;
+  margin-top:10px;
+	margin-right:auto; 
+	width:55%;
+	border:2px solid #dfe4ea;
+}
+#middle-container{
+  display: block;
+	margin-left:auto;
+	margin-right:auto;
+  margin-top:10px;
+	width:55%;
+	border:2px solid #dfe4ea;
+}
+#bottom-container{
+  display: block;
+  margin-top:10px;
+  margin-left:auto;
+	margin-right:auto; 
+	width:55%;
+	border:2px solid #dfe4ea;
+}
+#inputfield{
+  width:75%
+}
+#subbtn{
+	width:75%;
+	background-color:#5352ed;
+	font-size: 20px;
+	border-radius:8px;
+  padding:4px;
+	font:italic bold 20px/30px Georgia, sans-serif;
+}
+a{
+	text-decoration: none;
+}
