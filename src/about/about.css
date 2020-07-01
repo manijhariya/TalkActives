@@ -1,0 +1,61 @@
+.myDiv{
+animation:mymove 10s infinite;
+}
+@keyframes mymove{
+	50% {box-shadow:5px 25px 40px blue; }
+}
+.top-container{
+	margin: 0px;
+	padding-top:20px;
+	background-image: url("topbg.jpg");
+}
+.logo{
+	border-radius: 10px;
+	font-family:'New Roman Times';
+	text-decoration:none;
+	padding:14px 25px;
+	margin:0;
+	background-color:#f44336;
+	color:white;
+}
+.sign-in-column{
+	display:inline;
+	padding:10px 20px;
+	text-decoration:none;
+	background-color:#0055FF;
+	float:right;
+	color:whitesmoke;
+	border-radius: 8px;
+}
+a:visited{
+	background-color:cyan;
+}
+.logo:hover{
+	background-color:lightgrey;
+	color:#004080;
+}
+.sign-in-column:hover{
+	background-color:lightgrey;
+	color:#004080;
+}
+body{
+	padding-right:150px;
+	padding-left:150px;
+	padding-top:0px;
+	
+}
+hr{
+	color: red;
+}
+#toppest{
+	color:blue;
+}
+a{
+	text-decoration: none;
+}
+p{
+	font-size:medium;
+}
+h3{
+	font-size:larger;
+}
